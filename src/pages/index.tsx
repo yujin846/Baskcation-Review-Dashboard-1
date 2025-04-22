@@ -1,4 +1,3 @@
-// 리뷰 분석 대시보드 메인 페이지
 import Head from "next/head";
 export default function Home() {
   return (
